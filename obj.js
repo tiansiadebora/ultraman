@@ -13,5 +13,5 @@ const ultramantObj = {
   attack: () => {
     console.log("sword attack!");
   },
-  beam: (number) => console.log("spacium ray beam " + number + "%"),
+  beam: (number) => console.log("spacium ray beammm " + number + "%"),
 };
