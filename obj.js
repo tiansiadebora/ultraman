@@ -10,7 +10,6 @@ const ultramantObj = {
     galaxy: "andromeda 12",
   },
   weapons: ["sword", "shield", "lasso"],
-  blip: true,
   attack: () => {
     console.log("sword attack!");
   },
