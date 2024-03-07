@@ -9,7 +9,7 @@ const ultramantObj = {
     },
     galaxy: "andromeda 12",
   },
-  weapons: ["sword", "shield", "lasso"],
+  weapons: ["sword", "shield", "lasso", "pedang"],
   attack: () => {
     console.log("sword attack!");
   },
